@@ -104,8 +104,8 @@ jalan("\033[1;93m   ┈┈┈┈┈┈┈┈╲┊┊┊┊╱┈┈┈┈┈┈
 jalan("\033[1;93m   ┈┈┈┈┈┈┈┈▕╲▂▂╱▏┈┈┈┈┈┈┈┈")
 print "\033[1;93m♡─────╱▔▔▔▔┊┊┊┊▔▔▔▔╲───────♡\033[1;96mLogin Affihacker\033[1;95m♡╰──────────•◈•──────────╯♡"
  
-CorrectUsername = "AffiHacker"
-CorrectPassword = "Affiak47"
+CorrectUsername = "jbsn"
+CorrectPassword = "jbsn"
  
 loop = 'true'
 while (loop == 'true'):
